@@ -1,0 +1,25 @@
+{
+  "name": "Ukrainian_language_pack_pyanodon",
+  "version": "0.0.1",
+  "title": "Language package in Ukrainian by andrey4korop",
+  "description": "Language package in Ukrainian - Мовний пакет українською (py_mods_pack)",
+  "author": "andrey4korop",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"? Bottleneck >= 0.11.7",
+	"? DeadlockLargerLamp >= 1.5.0",
+	"? ElectricTrain >= 1.1.2",
+	"? EvoGUI >= 0.4.601",
+	"? Fluid-level-indicator >= 0.6.0",
+	"? nixie-tubes >= 1.1.3",
+	"? pyalienlife >= 2.1.4",
+	"? pyalternativeenergy >= 1.2.1",
+	"? pycoalprocessing >= 2.1.2",
+	"? pyfusionenergy >= 2.0.5",
+	"? pyhightech >= 2.0.8",
+	"? pyindustry >= 2.0.8",
+	"? pypetroleumhandling >= 2.1.8",
+	"? pypostprocessing >= 0.2.8",
+	"? pyrawores >= 2.4.8"
+	]
+}
